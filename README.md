@@ -12,6 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in//mayank-parmar-98350a279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/mayank-parmar-98350a279/" height="30" width="40" /></a>
 <a href="https://instagram.com/mynkk.04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mynkk.04" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/user/parmarmas0bh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/parmarmas0bh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
