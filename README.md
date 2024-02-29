@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Parmar</h1>
-<h3 align="center">A passionate developer working on PERN stack(Postgre, Express js, React js, Node js).</h3>
-
+<h3>A passionate developer working on PERN stack(Postgre, Express js, React js, Node js).</h3>
 
 - 🌱 I’m currently learning **Backend Development.**
 
@@ -20,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank088&show_icons=true&locale=en" alt="mayank088" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank088&" alt="mayank088" /></p>
-
