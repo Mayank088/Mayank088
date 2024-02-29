@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mayank Parmar</h1>
+<h1>Hi 👋</h1>
+<h1>I'm Mayank Parmar</h1>
 <h3>A passionate developer working on PERN stack(Postgre, Express js, React js, Node js).</h3>
 
 - 🌱 I’m currently learning **Backend Development.**
